@@ -8,20 +8,20 @@
  * para iniciar esse projeto você precisara ter o django instalado na sua maquina. pip install django (talvez seja necessario fazer alguma configuração a mais, caso seja, você ira seguindo os passo a passo que o python for te pedindo) 
 
  <br>
-<img align="center" alt="Instalando-Django" height="100" width="320" src="C:\Users\jvmli\PycharmProjects\AGENDA\projetoagendaimg\instalandodjango.png">
+<img align="center" alt="Instalando-Django" height="100" width="320" src="projetoagendaimg\instalandodjango.png">
 <br>
 
 * alguns outros passos serão mostrados para se fazer, você deve ir fazendo conforme o terminal for mandando. exemplo:
 
 * ERRO ao rodar servidor (python manage.py runserver):
 
-<img align="center" alt="Instalando-Django" height="120" width="320" src="C:\Users\jvmli\PycharmProjects\AGENDA\projetoagendaimg\errorodarserver.png">
+<img align="center" alt="Instalando-Django" height="120" width="320" src="projetoagendaimg\errorodarserver.png">
 <br>
 
 * Perceba que o próprio terminal indica o que se deve fazer, por tanto rodei o comando falado.
 
 
-<img align="center" alt="Instalando-Pillow" height="120" width="320" src="C:\Users\jvmli\PycharmProjects\AGENDA\projetoagendaimg\instalandopillow.png">
+<img align="center" alt="Instalando-Pillow" height="120" width="320" src="projetoagendaimg\instalandopillow.png">
 
 * Você deve ir seguindo os passos conforme o terminal pedir.
 
@@ -29,7 +29,7 @@
  
   * Para iniciar o servidor você ira digitar: python manage.py runserver (click no Ip/link destacado)
 
-<img align="center" alt="Instalando-Pillow" height="120" width="320" src="C:\Users\jvmli\PycharmProjects\AGENDA\projetoagendaimg\linkservidor.png">
+<img align="center" alt="Instalando-Pillow" height="120" width="320" src="projetoagendaimg\linkservidor.png">
 
 * abriu o servidor, agora você poderá acessar as áreas de Login, Cadastro, Criar novo contato/ Dashboard.
  
